@@ -1,0 +1,16 @@
+"Part";"Value";"Device";"Package";"Description";"PROD_ID";"VALUE";
+"C1";"4.7uF";"4.7UF0603";"0603";"4.7µF ceramic capacitors";"CAP-08280";"4.7uF";
+"C2";"100nF";"0.1UF-0603-25V-5%";"0603";"0.1µF ceramic capacitors";"CAP-08604";"0.1uF";
+"C3";"7.5nF";"100PF-0402-50V-5%";"0402";"100pF/0.1nF ceramic capacitors";"CAP-13458";"100PF";
+"GND_I";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"GND_O";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"SCL_I";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"SCL_O";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"SDA_I";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"SDA_O";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"U1";"VL53L0X";"VL53L0X";"OPTICAL_LGA12";"The VL53L0X is a new generation Time-of-Flight";"";"";
+"U2";"MAX6895AAZT+T";"MAX6895AAZT+T";"6-THIN-SOT23";"The MAX6895–MAX6899 is a family of small, low-power,";"";"";
+"VCC_I";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"VCC_O";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"XSHUT_I";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";
+"XSHUT_O";"";"SMD2";"SMD1,27-2,54";"SMD PAD";"";"";

@@ -1,0 +1,31 @@
+pseudocode:
+write all 1
+for index = 0 → 8
+	write motors with range >= index low
+	
+	
+arduino code:
+void loop()
+{
+	digitalWrite(motor_pin0, 1);
+	digitalWrite(motor_pin1, 1);
+	digitalWrite(motor_pin2, 1);
+	digitalWrite(motor_pin3, 1);
+	digitalWrite(motor_pin4, 1);
+	digitalWrite(motor_pin5, 1);
+	digitalWrite(motor_pin6, 1);
+	digitalWrite(motor_pin7, 1);
+	for(uint8_t i=0; i<9; i++)
+	{
+		digitalWrite(motor_pin0, dist[0] > i);
+		digitalWrite(motor_pin1, dist[1] > i);
+		digitalWrite(motor_pin2, dist[2] > i);
+		digitalWrite(motor_pin3, dist[3] > i);
+		digitalWrite(motor_pin4, dist[4] > i);
+		digitalWrite(motor_pin5, dist[5] > i);
+		digitalWrite(motor_pin6, dist[6] > i);
+		digitalWrite(motor_pin7, dist[7] > i);
+		
+		delay(10);
+	}
+}

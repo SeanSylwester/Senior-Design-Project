@@ -1,0 +1,14 @@
+molex:  13.9	6.5
+switch: 13.8	6.4
+plug:   9.9		2.5
+
+distance from board edge to outside face: 7.4 mm
+sensor board length: 69 mm
+feedback board length: 55 mm
+
+Centers of components relative to the bottom edge of the board, right edge of faceplate looking into the opening:
+	power plug: 6.25mm
+	molex connector: 23.75
+	power switch: 40.35
+	low power switch: 49.95
+	
